@@ -25,7 +25,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Hansen and I am from Canada <br><br>- 🔭 I’m working as Student <br>- 📚 I'm currently learning How to Rizz <br>- ⚡ In my free time I am Skibidi</p>
+<p align="left">I'm Hansen and I am from Canada <br><br>- 🔭 I’m working as an SWE from Google <br>- 📚 I'm currently learning How to Rizz <br>- ⚡ In my free time I am Skibidi</p>
 
 ###
 
