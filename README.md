@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Hansen and I am from Canada <br><br>- 🔭 SWE @ Google & Former Quant @ Jane Street <br>- 📚 I'm currently learning How to solve a Rubix Cube <br>- ⚡ I enjoy running, photography, guitar, reading, and playing Tetris in my free time.</p>
+<p align="left">I'm Hansen and I am from Canada <br><br>- 🔭 SWE @ Google <br>- 📚 I'm currently learning How to solve a Rubix Cube <br>- ⚡ I enjoy running, photography, guitar, reading, and playing Tetris in my free time.</p>
 
 ###
 
