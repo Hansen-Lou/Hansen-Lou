@@ -2,7 +2,6 @@
   <img height="150" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" />
 </div>
 
-
 ###
 
 <div align="center">
@@ -20,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://komarev.com/ghpvc/?username=Hansen-Lou&color=blue" />
 </div>
 
 ###
