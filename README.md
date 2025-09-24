@@ -68,7 +68,9 @@
 ###
 
 <div align="center">
-  <img src="![Hansen-Lou's Stats](https://github-readme-stats.vercel.app/api?username=Hansen-Lou&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" height="220" alt="streak graph"  />
+  <![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hansen-Lou&show_icons=true&theme=dark)/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen-Lou&layout=compact&theme=dark)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hansen-Lou&theme=dark)
 </div>
 
 ###
