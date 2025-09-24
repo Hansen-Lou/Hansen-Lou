@@ -1,6 +1,9 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <video height="150" autoplay loop muted>
+    <source src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.mp4" type="video/mp4">
+  </video>
 </div>
+
 
 ###
 
